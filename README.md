@@ -1,5 +1,5 @@
-# Machine-learning-in-Python
-This is my repository of machine learning algorithms in python 
+# Python Repository
+This is my repository in python 
 
 LIST:
   * NETWORK : Neural network trainned with stochastic gradient descendent for classification , in this case we are classifing   
