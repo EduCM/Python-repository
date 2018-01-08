@@ -1,0 +1,421 @@
+,Pais_vendedor,industria,Año,Mes,Monto,t-1,t-8
+0,América Latina,Industrias Manufactureras,2016.0,8,151413168.0,213204462.0,138478193.0
+1,América Latina,Industrias Manufactureras,2016.0,9,135145030.0,151413168.0,133522068.0
+2,América Latina,Industrias Manufactureras,2016.0,10,197032253.0,135145030.0,146672736.0
+3,América Latina,Industrias Manufactureras,2016.0,11,178447140.0,197032253.0,148917364.0
+4,América Latina,Industrias Manufactureras,2016.0,12,173112296.0,178447140.0,127890003.0
+5,América Latina,Industrias Manufactureras,2017.0,1,195899079.0,173112296.0,172840193.0
+6,América Latina,Industrias Manufactureras,2017.0,2,183503634.0,195899079.0,168955795.0
+7,América Latina,Industrias Manufactureras,2017.0,3,152810474.0,183503634.0,213204462.0
+8,América Latina,Industrias Manufactureras,2017.0,4,207662307.0,152810474.0,151413168.0
+9,América Latina,Industrias Manufactureras,2017.0,5,185470521.0,207662307.0,135145030.0
+10,América Latina,Industrias Manufactureras,2017.0,6,191672524.0,185470521.0,197032253.0
+11,América Latina,Industrias Manufactureras,2017.0,7,168500082.0,191672524.0,178447140.0
+12,América Latina,Industrias Extractivas,2016.0,8,1052825.0,1136920.0,37763.0
+13,América Latina,Industrias Extractivas,2016.0,9,354837.0,1052825.0,58921.0
+14,América Latina,Industrias Extractivas,2016.0,10,81955.0,354837.0,152841.0
+15,América Latina,Industrias Extractivas,2016.0,11,185732.0,81955.0,147291.0
+16,América Latina,Industrias Extractivas,2016.0,12,158012.0,185732.0,128104.0
+17,América Latina,Industrias Extractivas,2017.0,1,57106.0,158012.0,40884.0
+18,América Latina,Industrias Extractivas,2017.0,2,203345.0,57106.0,883591.0
+19,América Latina,Industrias Extractivas,2017.0,3,109154.0,203345.0,1136920.0
+20,América Latina,Industrias Extractivas,2017.0,4,161584.0,109154.0,1052825.0
+21,América Latina,Industrias Extractivas,2017.0,5,573661.0,161584.0,354837.0
+22,América Latina,Industrias Extractivas,2017.0,6,354813.0,573661.0,81955.0
+23,América Latina,Industrias Extractivas,2017.0,7,325428.0,354813.0,185732.0
+24,América Latina,Agricultura y Silvicultura,2016.0,8,4529588.0,5686495.0,16968531.0
+25,América Latina,Agricultura y Silvicultura,2016.0,9,4685332.0,4529588.0,4983855.0
+26,América Latina,Agricultura y Silvicultura,2016.0,10,3944364.0,4685332.0,8154377.0
+27,América Latina,Agricultura y Silvicultura,2016.0,11,3442504.0,3944364.0,7691849.0
+28,América Latina,Agricultura y Silvicultura,2016.0,12,6285703.0,3442504.0,4530479.0
+29,América Latina,Agricultura y Silvicultura,2017.0,1,27949504.0,6285703.0,4233197.0
+30,América Latina,Agricultura y Silvicultura,2017.0,2,25758793.0,27949504.0,5169352.0
+31,América Latina,Agricultura y Silvicultura,2017.0,3,6654383.0,25758793.0,5686495.0
+32,América Latina,Agricultura y Silvicultura,2017.0,4,5189143.0,6654383.0,4529588.0
+33,América Latina,Agricultura y Silvicultura,2017.0,5,28176540.0,5189143.0,4685332.0
+34,América Latina,Agricultura y Silvicultura,2017.0,6,11347933.0,28176540.0,3944364.0
+35,América Latina,Agricultura y Silvicultura,2017.0,7,10477896.0,11347933.0,3442504.0
+36,América Latina,Servicios y Productos no Clasificados,2016.0,8,4872866.0,3853286.0,26629244.0
+37,América Latina,Servicios y Productos no Clasificados,2016.0,9,4078372.0,4872866.0,4428471.0
+38,América Latina,Servicios y Productos no Clasificados,2016.0,10,2525429.0,4078372.0,24198682.0
+39,América Latina,Servicios y Productos no Clasificados,2016.0,11,6734467.0,2525429.0,1093449.0
+40,América Latina,Servicios y Productos no Clasificados,2016.0,12,7628974.0,6734467.0,2578801.0
+41,América Latina,Servicios y Productos no Clasificados,2017.0,1,1447175.0,7628974.0,2350148.0
+42,América Latina,Servicios y Productos no Clasificados,2017.0,2,3539698.0,1447175.0,3640067.0
+43,América Latina,Servicios y Productos no Clasificados,2017.0,3,2238425.0,3539698.0,3853286.0
+44,América Latina,Servicios y Productos no Clasificados,2017.0,4,3655011.0,2238425.0,4872866.0
+45,América Latina,Servicios y Productos no Clasificados,2017.0,5,1631675.0,3655011.0,4078372.0
+46,América Latina,Servicios y Productos no Clasificados,2017.0,6,2450288.0,1631675.0,2525429.0
+47,América Latina,Servicios y Productos no Clasificados,2017.0,7,2344667.0,2450288.0,6734467.0
+48,América Latina,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,130.0,350.0,0.0
+49,América Latina,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,100.0,130.0,0.0
+50,América Latina,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,60.0,100.0,100.0
+51,América Latina,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,130.0,60.0,230.0
+52,América Latina,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,80.0,130.0,250.0
+53,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,60.0,80.0,180.0
+54,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,460.0,60.0,480.0
+55,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,150.0,460.0,350.0
+56,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,430.0,150.0,130.0
+57,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,30.0,430.0,100.0
+58,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,0.0,30.0,60.0
+59,América Latina,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,680.0,0.0,130.0
+60,Asia,Industrias Manufactureras,2016.0,8,1287697953.0,1076793614.0,887409999.0
+61,Asia,Industrias Manufactureras,2016.0,9,1261122230.0,1287697953.0,778561454.0
+62,Asia,Industrias Manufactureras,2016.0,10,1291504962.0,1261122230.0,933109480.0
+63,Asia,Industrias Manufactureras,2016.0,11,1235435130.0,1291504962.0,1108058530.0
+64,Asia,Industrias Manufactureras,2016.0,12,950193238.0,1235435130.0,1142793852.0
+65,Asia,Industrias Manufactureras,2017.0,1,998953741.0,950193238.0,1142840805.0
+66,Asia,Industrias Manufactureras,2017.0,2,1022347096.0,998953741.0,1245485238.0
+67,Asia,Industrias Manufactureras,2017.0,3,1125449884.0,1022347096.0,1076793614.0
+68,Asia,Industrias Manufactureras,2017.0,4,1150878454.0,1125449884.0,1287697953.0
+69,Asia,Industrias Manufactureras,2017.0,5,1313764852.0,1150878454.0,1261122230.0
+70,Asia,Industrias Manufactureras,2017.0,6,1372016511.0,1313764852.0,1291504962.0
+71,Asia,Industrias Manufactureras,2017.0,7,1149911651.0,1372016511.0,1235435130.0
+72,Asia,Industrias Extractivas,2016.0,8,2396896.0,1574641.0,1021033.0
+73,Asia,Industrias Extractivas,2016.0,9,27706.0,2396896.0,257457.0
+74,Asia,Industrias Extractivas,2016.0,10,39785.0,27706.0,6619.0
+75,Asia,Industrias Extractivas,2016.0,11,7354.0,39785.0,12045.0
+76,Asia,Industrias Extractivas,2016.0,12,2588968.0,7354.0,14023.0
+77,Asia,Industrias Extractivas,2017.0,1,2837108.0,2588968.0,14905.0
+78,Asia,Industrias Extractivas,2017.0,2,22491.0,2837108.0,3884226.0
+79,Asia,Industrias Extractivas,2017.0,3,8407.0,22491.0,1574641.0
+80,Asia,Industrias Extractivas,2017.0,4,8851.0,8407.0,2396896.0
+81,Asia,Industrias Extractivas,2017.0,5,80135.0,8851.0,27706.0
+82,Asia,Industrias Extractivas,2017.0,6,6106.0,80135.0,39785.0
+83,Asia,Industrias Extractivas,2017.0,7,10.0,6106.0,7354.0
+84,Asia,Agricultura y Silvicultura,2016.0,8,1294733.0,1403397.0,1323653.0
+85,Asia,Agricultura y Silvicultura,2016.0,9,1267773.0,1294733.0,1338623.0
+86,Asia,Agricultura y Silvicultura,2016.0,10,2600175.0,1267773.0,1844388.0
+87,Asia,Agricultura y Silvicultura,2016.0,11,1910697.0,2600175.0,1067305.0
+88,Asia,Agricultura y Silvicultura,2016.0,12,1786164.0,1910697.0,1147191.0
+89,Asia,Agricultura y Silvicultura,2017.0,1,1921270.0,1786164.0,1043709.0
+90,Asia,Agricultura y Silvicultura,2017.0,2,2683721.0,1921270.0,1000544.0
+91,Asia,Agricultura y Silvicultura,2017.0,3,3973859.0,2683721.0,1403397.0
+92,Asia,Agricultura y Silvicultura,2017.0,4,4191510.0,3973859.0,1294733.0
+93,Asia,Agricultura y Silvicultura,2017.0,5,3467150.0,4191510.0,1267773.0
+94,Asia,Agricultura y Silvicultura,2017.0,6,2877473.0,3467150.0,2600175.0
+95,Asia,Agricultura y Silvicultura,2017.0,7,3295708.0,2877473.0,1910697.0
+96,Asia,Servicios y Productos no Clasificados,2016.0,8,4889509.0,4611830.0,8449975.0
+97,Asia,Servicios y Productos no Clasificados,2016.0,9,5301319.0,4889509.0,3576142.0
+98,Asia,Servicios y Productos no Clasificados,2016.0,10,8126103.0,5301319.0,3538238.0
+99,Asia,Servicios y Productos no Clasificados,2016.0,11,9190689.0,8126103.0,3402093.0
+100,Asia,Servicios y Productos no Clasificados,2016.0,12,6543476.0,9190689.0,4507827.0
+101,Asia,Servicios y Productos no Clasificados,2017.0,1,4657588.0,6543476.0,4798610.0
+102,Asia,Servicios y Productos no Clasificados,2017.0,2,5931616.0,4657588.0,4628136.0
+103,Asia,Servicios y Productos no Clasificados,2017.0,3,5991431.0,5931616.0,4611830.0
+104,Asia,Servicios y Productos no Clasificados,2017.0,4,5810103.0,5991431.0,4889509.0
+105,Asia,Servicios y Productos no Clasificados,2017.0,5,7918740.0,5810103.0,5301319.0
+106,Asia,Servicios y Productos no Clasificados,2017.0,6,12735878.0,7918740.0,8126103.0
+107,Asia,Servicios y Productos no Clasificados,2017.0,7,5888741.0,12735878.0,9190689.0
+108,Asia,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,0.0,0.0,0.0
+109,Asia,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,0.0,0.0,0.0
+110,Asia,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,0.0,0.0,50.0
+111,Asia,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,0.0,0.0,0.0
+112,Asia,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,0.0,0.0,178.0
+113,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,0.0,0.0,200.0
+114,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,0.0,0.0,0.0
+115,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,0.0,0.0,0.0
+116,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,0.0,0.0,0.0
+117,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,0.0,0.0,0.0
+118,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,0.0,0.0,0.0
+119,Asia,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,0.0,0.0,0.0
+120,Europa,Industrias Manufactureras,2016.0,8,701685929.0,667598125.0,553222522.0
+121,Europa,Industrias Manufactureras,2016.0,9,613566152.0,701685929.0,514065866.0
+122,Europa,Industrias Manufactureras,2016.0,10,674158367.0,613566152.0,571831858.0
+123,Europa,Industrias Manufactureras,2016.0,11,692030085.0,674158367.0,662701241.0
+124,Europa,Industrias Manufactureras,2016.0,12,669489036.0,692030085.0,623122570.0
+125,Europa,Industrias Manufactureras,2017.0,1,622127586.0,669489036.0,627146701.0
+126,Europa,Industrias Manufactureras,2017.0,2,602343755.0,622127586.0,633275955.0
+127,Europa,Industrias Manufactureras,2017.0,3,740683582.0,602343755.0,667598125.0
+128,Europa,Industrias Manufactureras,2017.0,4,659291103.0,740683582.0,701685929.0
+129,Europa,Industrias Manufactureras,2017.0,5,761068246.0,659291103.0,613566152.0
+130,Europa,Industrias Manufactureras,2017.0,6,1170820102.0,761068246.0,674158367.0
+131,Europa,Industrias Manufactureras,2017.0,7,783963236.0,1170820102.0,692030085.0
+132,Europa,Industrias Extractivas,2016.0,8,462290.0,995000.0,584384.0
+133,Europa,Industrias Extractivas,2016.0,9,1133067.0,462290.0,592517.0
+134,Europa,Industrias Extractivas,2016.0,10,303335.0,1133067.0,941932.0
+135,Europa,Industrias Extractivas,2016.0,11,1061485.0,303335.0,1297066.0
+136,Europa,Industrias Extractivas,2016.0,12,992694.0,1061485.0,582670.0
+137,Europa,Industrias Extractivas,2017.0,1,487960.0,992694.0,464811.0
+138,Europa,Industrias Extractivas,2017.0,2,416006.0,487960.0,416533.0
+139,Europa,Industrias Extractivas,2017.0,3,353298.0,416006.0,995000.0
+140,Europa,Industrias Extractivas,2017.0,4,334739.0,353298.0,462290.0
+141,Europa,Industrias Extractivas,2017.0,5,448900.0,334739.0,1133067.0
+142,Europa,Industrias Extractivas,2017.0,6,571066.0,448900.0,303335.0
+143,Europa,Industrias Extractivas,2017.0,7,806098.0,571066.0,1061485.0
+144,Europa,Agricultura y Silvicultura,2016.0,8,2251149.0,3223331.0,1065433.0
+145,Europa,Agricultura y Silvicultura,2016.0,9,639986.0,2251149.0,1849132.0
+146,Europa,Agricultura y Silvicultura,2016.0,10,1499381.0,639986.0,2742458.0
+147,Europa,Agricultura y Silvicultura,2016.0,11,3089080.0,1499381.0,3361635.0
+148,Europa,Agricultura y Silvicultura,2016.0,12,700046.0,3089080.0,2857217.0
+149,Europa,Agricultura y Silvicultura,2017.0,1,1548911.0,700046.0,2348268.0
+150,Europa,Agricultura y Silvicultura,2017.0,2,1803219.0,1548911.0,3306816.0
+151,Europa,Agricultura y Silvicultura,2017.0,3,4948667.0,1803219.0,3223331.0
+152,Europa,Agricultura y Silvicultura,2017.0,4,23595663.0,4948667.0,2251149.0
+153,Europa,Agricultura y Silvicultura,2017.0,5,21710385.0,23595663.0,639986.0
+154,Europa,Agricultura y Silvicultura,2017.0,6,4047681.0,21710385.0,1499381.0
+155,Europa,Agricultura y Silvicultura,2017.0,7,3534117.0,4047681.0,3089080.0
+156,Europa,Servicios y Productos no Clasificados,2016.0,8,10355887.0,10609138.0,13466552.0
+157,Europa,Servicios y Productos no Clasificados,2016.0,9,13339897.0,10355887.0,8929063.0
+158,Europa,Servicios y Productos no Clasificados,2016.0,10,13063473.0,13339897.0,11063659.0
+159,Europa,Servicios y Productos no Clasificados,2016.0,11,11320754.0,13063473.0,12482163.0
+160,Europa,Servicios y Productos no Clasificados,2016.0,12,9666527.0,11320754.0,8954127.0
+161,Europa,Servicios y Productos no Clasificados,2017.0,1,8757535.0,9666527.0,9913698.0
+162,Europa,Servicios y Productos no Clasificados,2017.0,2,14757768.0,8757535.0,10106670.0
+163,Europa,Servicios y Productos no Clasificados,2017.0,3,11712790.0,14757768.0,10609138.0
+164,Europa,Servicios y Productos no Clasificados,2017.0,4,11187419.0,11712790.0,10355887.0
+165,Europa,Servicios y Productos no Clasificados,2017.0,5,11715064.0,11187419.0,13339897.0
+166,Europa,Servicios y Productos no Clasificados,2017.0,6,12528637.0,11715064.0,13063473.0
+167,Europa,Servicios y Productos no Clasificados,2017.0,7,22682788.0,12528637.0,11320754.0
+168,Europa,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,15543.0,4004.0,0.0
+169,Europa,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,25415.0,15543.0,0.0
+170,Europa,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,19512.0,25415.0,115000.0
+171,Europa,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,34251.0,19512.0,1467.0
+172,Europa,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,34572.0,34251.0,2447.0
+173,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,14784.0,34572.0,0.0
+174,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,8365.0,14784.0,10.0
+175,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,13243.0,8365.0,4004.0
+176,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,12926.0,13243.0,15543.0
+177,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,16458.0,12926.0,25415.0
+178,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,58279.0,16458.0,19512.0
+179,Europa,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,48903.0,58279.0,34251.0
+180,Africa,Industrias Manufactureras,2016.0,8,26303975.0,38671412.0,49202939.0
+181,Africa,Industrias Manufactureras,2016.0,9,29131188.0,26303975.0,35358688.0
+182,Africa,Industrias Manufactureras,2016.0,10,41180356.0,29131188.0,20690435.0
+183,Africa,Industrias Manufactureras,2016.0,11,44678000.0,41180356.0,29858073.0
+184,Africa,Industrias Manufactureras,2016.0,12,26010523.0,44678000.0,51236470.0
+185,Africa,Industrias Manufactureras,2017.0,1,31889905.0,26010523.0,27900889.0
+186,Africa,Industrias Manufactureras,2017.0,2,21424078.0,31889905.0,37151255.0
+187,Africa,Industrias Manufactureras,2017.0,3,20635773.0,21424078.0,38671412.0
+188,Africa,Industrias Manufactureras,2017.0,4,15761086.0,20635773.0,26303975.0
+189,Africa,Industrias Manufactureras,2017.0,5,14543701.0,15761086.0,29131188.0
+190,Africa,Industrias Manufactureras,2017.0,6,13916559.0,14543701.0,41180356.0
+191,Africa,Industrias Manufactureras,2017.0,7,17440690.0,13916559.0,44678000.0
+192,Africa,Industrias Extractivas,2016.0,8,0.0,0.0,0.0
+193,Africa,Industrias Extractivas,2016.0,9,0.0,0.0,32200.0
+194,Africa,Industrias Extractivas,2016.0,10,0.0,0.0,0.0
+195,Africa,Industrias Extractivas,2016.0,11,0.0,0.0,0.0
+196,Africa,Industrias Extractivas,2016.0,12,0.0,0.0,0.0
+197,Africa,Industrias Extractivas,2017.0,1,0.0,0.0,0.0
+198,Africa,Industrias Extractivas,2017.0,2,0.0,0.0,0.0
+199,Africa,Industrias Extractivas,2017.0,3,0.0,0.0,0.0
+200,Africa,Industrias Extractivas,2017.0,4,0.0,0.0,0.0
+201,Africa,Industrias Extractivas,2017.0,5,0.0,0.0,0.0
+202,Africa,Industrias Extractivas,2017.0,6,0.0,0.0,0.0
+203,Africa,Industrias Extractivas,2017.0,7,0.0,0.0,0.0
+204,Africa,Agricultura y Silvicultura,2016.0,8,0.0,0.0,0.0
+205,Africa,Agricultura y Silvicultura,2016.0,9,44269.0,0.0,7.0
+206,Africa,Agricultura y Silvicultura,2016.0,10,276542.0,44269.0,262649.0
+207,Africa,Agricultura y Silvicultura,2016.0,11,381400.0,276542.0,256545.0
+208,Africa,Agricultura y Silvicultura,2016.0,12,0.0,381400.0,280273.0
+209,Africa,Agricultura y Silvicultura,2017.0,1,419900.0,0.0,0.0
+210,Africa,Agricultura y Silvicultura,2017.0,2,399273.0,419900.0,120288.0
+211,Africa,Agricultura y Silvicultura,2017.0,3,1165780.0,399273.0,0.0
+212,Africa,Agricultura y Silvicultura,2017.0,4,868727.0,1165780.0,0.0
+213,Africa,Agricultura y Silvicultura,2017.0,5,609900.0,868727.0,44269.0
+214,Africa,Agricultura y Silvicultura,2017.0,6,415254.0,609900.0,276542.0
+215,Africa,Agricultura y Silvicultura,2017.0,7,340580.0,415254.0,381400.0
+216,Africa,Servicios y Productos no Clasificados,2016.0,8,43576.0,15824.0,323674.0
+217,Africa,Servicios y Productos no Clasificados,2016.0,9,58323.0,43576.0,6393.0
+218,Africa,Servicios y Productos no Clasificados,2016.0,10,83165.0,58323.0,4755.0
+219,Africa,Servicios y Productos no Clasificados,2016.0,11,1861.0,83165.0,75344.0
+220,Africa,Servicios y Productos no Clasificados,2016.0,12,5019.0,1861.0,72107.0
+221,Africa,Servicios y Productos no Clasificados,2017.0,1,108239.0,5019.0,195410.0
+222,Africa,Servicios y Productos no Clasificados,2017.0,2,30325.0,108239.0,3860.0
+223,Africa,Servicios y Productos no Clasificados,2017.0,3,3476.0,30325.0,15824.0
+224,Africa,Servicios y Productos no Clasificados,2017.0,4,68291.0,3476.0,43576.0
+225,Africa,Servicios y Productos no Clasificados,2017.0,5,71583.0,68291.0,58323.0
+226,Africa,Servicios y Productos no Clasificados,2017.0,6,1292.0,71583.0,83165.0
+227,Africa,Servicios y Productos no Clasificados,2017.0,7,3215.0,1292.0,1861.0
+228,Africa,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,0.0,0.0,0.0
+229,Africa,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,0.0,0.0,0.0
+230,Africa,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,0.0,0.0,0.0
+231,Africa,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,0.0,0.0,0.0
+232,Africa,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,5.0,0.0,0.0
+233,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,0.0,5.0,0.0
+234,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,0.0,0.0,0.0
+235,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,0.0,0.0,0.0
+236,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,0.0,0.0,0.0
+237,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,0.0,0.0,0.0
+238,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,0.0,0.0,0.0
+239,Africa,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,0.0,0.0,0.0
+240,Oceanía,Industrias Manufactureras,2016.0,8,5839446.0,9411789.0,7502464.0
+241,Oceanía,Industrias Manufactureras,2016.0,9,5317112.0,5839446.0,5479656.0
+242,Oceanía,Industrias Manufactureras,2016.0,10,9780717.0,5317112.0,7778160.0
+243,Oceanía,Industrias Manufactureras,2016.0,11,9550167.0,9780717.0,11273057.0
+244,Oceanía,Industrias Manufactureras,2016.0,12,11788121.0,9550167.0,6573144.0
+245,Oceanía,Industrias Manufactureras,2017.0,1,10008775.0,11788121.0,6746506.0
+246,Oceanía,Industrias Manufactureras,2017.0,2,7876610.0,10008775.0,6940414.0
+247,Oceanía,Industrias Manufactureras,2017.0,3,9142218.0,7876610.0,9411789.0
+248,Oceanía,Industrias Manufactureras,2017.0,4,9884360.0,9142218.0,5839446.0
+249,Oceanía,Industrias Manufactureras,2017.0,5,9294484.0,9884360.0,5317112.0
+250,Oceanía,Industrias Manufactureras,2017.0,6,8989853.0,9294484.0,9780717.0
+251,Oceanía,Industrias Manufactureras,2017.0,7,6711600.0,8989853.0,9550167.0
+252,Oceanía,Industrias Extractivas,2016.0,8,532874.0,388167.0,10.0
+253,Oceanía,Industrias Extractivas,2016.0,9,0.0,532874.0,0.0
+254,Oceanía,Industrias Extractivas,2016.0,10,333367.0,0.0,0.0
+255,Oceanía,Industrias Extractivas,2016.0,11,304253.0,333367.0,41900.0
+256,Oceanía,Industrias Extractivas,2016.0,12,42338.0,304253.0,86208.0
+257,Oceanía,Industrias Extractivas,2017.0,1,0.0,42338.0,42997.0
+258,Oceanía,Industrias Extractivas,2017.0,2,385550.0,0.0,0.0
+259,Oceanía,Industrias Extractivas,2017.0,3,393614.0,385550.0,388167.0
+260,Oceanía,Industrias Extractivas,2017.0,4,462834.0,393614.0,532874.0
+261,Oceanía,Industrias Extractivas,2017.0,5,452665.0,462834.0,0.0
+262,Oceanía,Industrias Extractivas,2017.0,6,496376.0,452665.0,333367.0
+263,Oceanía,Industrias Extractivas,2017.0,7,0.0,496376.0,304253.0
+264,Oceanía,Agricultura y Silvicultura,2016.0,8,0.0,0.0,0.0
+265,Oceanía,Agricultura y Silvicultura,2016.0,9,0.0,0.0,0.0
+266,Oceanía,Agricultura y Silvicultura,2016.0,10,0.0,0.0,0.0
+267,Oceanía,Agricultura y Silvicultura,2016.0,11,152.0,0.0,0.0
+268,Oceanía,Agricultura y Silvicultura,2016.0,12,0.0,152.0,0.0
+269,Oceanía,Agricultura y Silvicultura,2017.0,1,0.0,0.0,0.0
+270,Oceanía,Agricultura y Silvicultura,2017.0,2,0.0,0.0,12.0
+271,Oceanía,Agricultura y Silvicultura,2017.0,3,8926500.0,0.0,0.0
+272,Oceanía,Agricultura y Silvicultura,2017.0,4,0.0,8926500.0,0.0
+273,Oceanía,Agricultura y Silvicultura,2017.0,5,0.0,0.0,0.0
+274,Oceanía,Agricultura y Silvicultura,2017.0,6,7419604.0,0.0,0.0
+275,Oceanía,Agricultura y Silvicultura,2017.0,7,0.0,7419604.0,152.0
+276,Oceanía,Servicios y Productos no Clasificados,2016.0,8,24748.0,10518.0,31000.0
+277,Oceanía,Servicios y Productos no Clasificados,2016.0,9,137194.0,24748.0,27431.0
+278,Oceanía,Servicios y Productos no Clasificados,2016.0,10,8654.0,137194.0,26684.0
+279,Oceanía,Servicios y Productos no Clasificados,2016.0,11,27861.0,8654.0,28197.0
+280,Oceanía,Servicios y Productos no Clasificados,2016.0,12,18854.0,27861.0,25751.0
+281,Oceanía,Servicios y Productos no Clasificados,2017.0,1,14080.0,18854.0,17416.0
+282,Oceanía,Servicios y Productos no Clasificados,2017.0,2,65953.0,14080.0,24209.0
+283,Oceanía,Servicios y Productos no Clasificados,2017.0,3,7746.0,65953.0,10518.0
+284,Oceanía,Servicios y Productos no Clasificados,2017.0,4,90462.0,7746.0,24748.0
+285,Oceanía,Servicios y Productos no Clasificados,2017.0,5,11397.0,90462.0,137194.0
+286,Oceanía,Servicios y Productos no Clasificados,2017.0,6,16673.0,11397.0,8654.0
+287,Oceanía,Servicios y Productos no Clasificados,2017.0,7,15735.0,16673.0,27861.0
+288,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,0.0,0.0,0.0
+289,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,0.0,0.0,0.0
+290,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,0.0,0.0,0.0
+291,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,0.0,0.0,0.0
+292,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,0.0,0.0,0.0
+293,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,0.0,0.0,0.0
+294,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,0.0,0.0,0.0
+295,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,0.0,0.0,0.0
+296,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,0.0,0.0,0.0
+297,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,0.0,0.0,0.0
+298,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,0.0,0.0,0.0
+299,Oceanía,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,0.0,0.0,0.0
+300,América del Norte,Industrias Manufactureras,2016.0,8,2262568951.0,2003865814.0,1970500363.0
+301,América del Norte,Industrias Manufactureras,2016.0,9,2173888269.0,2262568951.0,2042670938.0
+302,América del Norte,Industrias Manufactureras,2016.0,10,2058241925.0,2173888269.0,2087121964.0
+303,América del Norte,Industrias Manufactureras,2016.0,11,2126241496.0,2058241925.0,1987766506.0
+304,América del Norte,Industrias Manufactureras,2016.0,12,1980455993.0,2126241496.0,2121457044.0
+305,América del Norte,Industrias Manufactureras,2017.0,1,2144878716.0,1980455993.0,2137805467.0
+306,América del Norte,Industrias Manufactureras,2017.0,2,2039809293.0,2144878716.0,1991291923.0
+307,América del Norte,Industrias Manufactureras,2017.0,3,2444015627.0,2039809293.0,2003865814.0
+308,América del Norte,Industrias Manufactureras,2017.0,4,2058447773.0,2444015627.0,2262568951.0
+309,América del Norte,Industrias Manufactureras,2017.0,5,2258810418.0,2058447773.0,2173888269.0
+310,América del Norte,Industrias Manufactureras,2017.0,6,2250780927.0,2258810418.0,2058241925.0
+311,América del Norte,Industrias Manufactureras,2017.0,7,2566075032.0,2250780927.0,2126241496.0
+312,América del Norte,Industrias Extractivas,2016.0,8,5668403.0,3958922.0,8597998.0
+313,América del Norte,Industrias Extractivas,2016.0,9,7815812.0,5668403.0,2498707.0
+314,América del Norte,Industrias Extractivas,2016.0,10,10931045.0,7815812.0,1267374.0
+315,América del Norte,Industrias Extractivas,2016.0,11,8587855.0,10931045.0,5981468.0
+316,América del Norte,Industrias Extractivas,2016.0,12,6082357.0,8587855.0,5566573.0
+317,América del Norte,Industrias Extractivas,2017.0,1,3703540.0,6082357.0,2722356.0
+318,América del Norte,Industrias Extractivas,2017.0,2,2327408.0,3703540.0,3527157.0
+319,América del Norte,Industrias Extractivas,2017.0,3,2325017.0,2327408.0,3958922.0
+320,América del Norte,Industrias Extractivas,2017.0,4,5666783.0,2325017.0,5668403.0
+321,América del Norte,Industrias Extractivas,2017.0,5,2961989.0,5666783.0,7815812.0
+322,América del Norte,Industrias Extractivas,2017.0,6,2758214.0,2961989.0,10931045.0
+323,América del Norte,Industrias Extractivas,2017.0,7,1207457.0,2758214.0,8587855.0
+324,América del Norte,Agricultura y Silvicultura,2016.0,8,39418013.0,48573276.0,43046780.0
+325,América del Norte,Agricultura y Silvicultura,2016.0,9,63892241.0,39418013.0,29254325.0
+326,América del Norte,Agricultura y Silvicultura,2016.0,10,58555482.0,63892241.0,43563682.0
+327,América del Norte,Agricultura y Silvicultura,2016.0,11,69402043.0,58555482.0,39354666.0
+328,América del Norte,Agricultura y Silvicultura,2016.0,12,69985432.0,69402043.0,61260290.0
+329,América del Norte,Agricultura y Silvicultura,2017.0,1,23537750.0,69985432.0,62409626.0
+330,América del Norte,Agricultura y Silvicultura,2017.0,2,86485748.0,23537750.0,53956319.0
+331,América del Norte,Agricultura y Silvicultura,2017.0,3,105036019.0,86485748.0,48573276.0
+332,América del Norte,Agricultura y Silvicultura,2017.0,4,103655145.0,105036019.0,39418013.0
+333,América del Norte,Agricultura y Silvicultura,2017.0,5,87197449.0,103655145.0,63892241.0
+334,América del Norte,Agricultura y Silvicultura,2017.0,6,68101961.0,87197449.0,58555482.0
+335,América del Norte,Agricultura y Silvicultura,2017.0,7,49537940.0,68101961.0,69402043.0
+336,América del Norte,Servicios y Productos no Clasificados,2016.0,8,39493271.0,39909240.0,56413785.0
+337,América del Norte,Servicios y Productos no Clasificados,2016.0,9,40648744.0,39493271.0,29996176.0
+338,América del Norte,Servicios y Productos no Clasificados,2016.0,10,34861269.0,40648744.0,33563561.0
+339,América del Norte,Servicios y Productos no Clasificados,2016.0,11,35127362.0,34861269.0,34439422.0
+340,América del Norte,Servicios y Productos no Clasificados,2016.0,12,36403316.0,35127362.0,35554146.0
+341,América del Norte,Servicios y Productos no Clasificados,2017.0,1,39585951.0,36403316.0,37173038.0
+342,América del Norte,Servicios y Productos no Clasificados,2017.0,2,32473543.0,39585951.0,39461251.0
+343,América del Norte,Servicios y Productos no Clasificados,2017.0,3,39902184.0,32473543.0,39909240.0
+344,América del Norte,Servicios y Productos no Clasificados,2017.0,4,39646224.0,39902184.0,39493271.0
+345,América del Norte,Servicios y Productos no Clasificados,2017.0,5,36061619.0,39646224.0,40648744.0
+346,América del Norte,Servicios y Productos no Clasificados,2017.0,6,47117487.0,36061619.0,34861269.0
+347,América del Norte,Servicios y Productos no Clasificados,2017.0,7,47241155.0,47117487.0,35127362.0
+348,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,7298.0,9121.0,0.0
+349,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,21961.0,7298.0,0.0
+350,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,34936.0,21961.0,37557.0
+351,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,58226.0,34936.0,54094.0
+352,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,60140.0,58226.0,28515.0
+353,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,42360.0,60140.0,23884.0
+354,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,26578.0,42360.0,15000.0
+355,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,8915.0,26578.0,9121.0
+356,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,18571.0,8915.0,7298.0
+357,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,9845.0,18571.0,21961.0
+358,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,2348.0,9845.0,34936.0
+359,América del Norte,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,4130.0,2348.0,58226.0
+360,otro,Industrias Manufactureras,2016.0,8,3072.0,12837.0,0.0
+361,otro,Industrias Manufactureras,2016.0,9,5.0,3072.0,0.0
+362,otro,Industrias Manufactureras,2016.0,10,0.0,5.0,0.0
+363,otro,Industrias Manufactureras,2016.0,11,1000.0,0.0,0.0
+364,otro,Industrias Manufactureras,2016.0,12,397.0,1000.0,0.0
+365,otro,Industrias Manufactureras,2017.0,1,0.0,397.0,695.0
+366,otro,Industrias Manufactureras,2017.0,2,37.0,0.0,0.0
+367,otro,Industrias Manufactureras,2017.0,3,0.0,37.0,12837.0
+368,otro,Industrias Manufactureras,2017.0,4,0.0,0.0,3072.0
+369,otro,Industrias Manufactureras,2017.0,5,1340.0,0.0,5.0
+370,otro,Industrias Manufactureras,2017.0,6,1936.0,1340.0,0.0
+371,otro,Industrias Manufactureras,2017.0,7,0.0,1936.0,1000.0
+372,otro,Industrias Extractivas,2016.0,8,0.0,0.0,0.0
+373,otro,Industrias Extractivas,2016.0,9,0.0,0.0,0.0
+374,otro,Industrias Extractivas,2016.0,10,0.0,0.0,0.0
+375,otro,Industrias Extractivas,2016.0,11,0.0,0.0,0.0
+376,otro,Industrias Extractivas,2016.0,12,0.0,0.0,0.0
+377,otro,Industrias Extractivas,2017.0,1,0.0,0.0,0.0
+378,otro,Industrias Extractivas,2017.0,2,0.0,0.0,0.0
+379,otro,Industrias Extractivas,2017.0,3,0.0,0.0,0.0
+380,otro,Industrias Extractivas,2017.0,4,0.0,0.0,0.0
+381,otro,Industrias Extractivas,2017.0,5,0.0,0.0,0.0
+382,otro,Industrias Extractivas,2017.0,6,0.0,0.0,0.0
+383,otro,Industrias Extractivas,2017.0,7,0.0,0.0,0.0
+384,otro,Agricultura y Silvicultura,2016.0,8,0.0,0.0,0.0
+385,otro,Agricultura y Silvicultura,2016.0,9,0.0,0.0,0.0
+386,otro,Agricultura y Silvicultura,2016.0,10,0.0,0.0,0.0
+387,otro,Agricultura y Silvicultura,2016.0,11,0.0,0.0,0.0
+388,otro,Agricultura y Silvicultura,2016.0,12,0.0,0.0,0.0
+389,otro,Agricultura y Silvicultura,2017.0,1,0.0,0.0,0.0
+390,otro,Agricultura y Silvicultura,2017.0,2,0.0,0.0,0.0
+391,otro,Agricultura y Silvicultura,2017.0,3,0.0,0.0,0.0
+392,otro,Agricultura y Silvicultura,2017.0,4,0.0,0.0,0.0
+393,otro,Agricultura y Silvicultura,2017.0,5,0.0,0.0,0.0
+394,otro,Agricultura y Silvicultura,2017.0,6,0.0,0.0,0.0
+395,otro,Agricultura y Silvicultura,2017.0,7,0.0,0.0,0.0
+396,otro,Servicios y Productos no Clasificados,2016.0,8,0.0,0.0,0.0
+397,otro,Servicios y Productos no Clasificados,2016.0,9,14.0,0.0,0.0
+398,otro,Servicios y Productos no Clasificados,2016.0,10,0.0,14.0,0.0
+399,otro,Servicios y Productos no Clasificados,2016.0,11,0.0,0.0,0.0
+400,otro,Servicios y Productos no Clasificados,2016.0,12,50.0,0.0,260.0
+401,otro,Servicios y Productos no Clasificados,2017.0,1,0.0,50.0,0.0
+402,otro,Servicios y Productos no Clasificados,2017.0,2,4.0,0.0,3.0
+403,otro,Servicios y Productos no Clasificados,2017.0,3,0.0,4.0,0.0
+404,otro,Servicios y Productos no Clasificados,2017.0,4,0.0,0.0,0.0
+405,otro,Servicios y Productos no Clasificados,2017.0,5,0.0,0.0,14.0
+406,otro,Servicios y Productos no Clasificados,2017.0,6,46.0,0.0,0.0
+407,otro,Servicios y Productos no Clasificados,2017.0,7,0.0,46.0,0.0
+408,otro,"Ganadería, Apicultura, Caza, Pesca",2016.0,8,0.0,0.0,0.0
+409,otro,"Ganadería, Apicultura, Caza, Pesca",2016.0,9,0.0,0.0,0.0
+410,otro,"Ganadería, Apicultura, Caza, Pesca",2016.0,10,0.0,0.0,0.0
+411,otro,"Ganadería, Apicultura, Caza, Pesca",2016.0,11,0.0,0.0,0.0
+412,otro,"Ganadería, Apicultura, Caza, Pesca",2016.0,12,0.0,0.0,0.0
+413,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,1,0.0,0.0,0.0
+414,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,2,0.0,0.0,0.0
+415,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,3,0.0,0.0,0.0
+416,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,4,0.0,0.0,0.0
+417,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,5,0.0,0.0,0.0
+418,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,6,0.0,0.0,0.0
+419,otro,"Ganadería, Apicultura, Caza, Pesca",2017.0,7,0.0,0.0,0.0
